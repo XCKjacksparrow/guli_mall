@@ -8,7 +8,7 @@
 
 package per.xck.common.xss;
 
-import per.xck.common.exception.RRException;
+import per.xck.common.utils.RRException;
 import org.apache.commons.lang.StringUtils;
 
 /**
